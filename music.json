@@ -1,1 +1,17 @@
-
+[
+  {
+    "title": "شایان یو - هر بار",
+    "url": "https://raw.githubusercontent.com/msinamo/nafas-mozik-test/main/Shayan%20Yo%20-%20Har%20Bar%20(320).mp3",
+    "moods": ["SAD", "TIRED"]
+  },
+  {
+    "title": "موسیقی بی‌کلام آرامش‌بخش ذهن",
+    "url": "https://raw.githubusercontent.com/msinamo/nafas-mozik-test/main/0bikalam%20download1music.ir%20(1).mp3",
+    "moods": ["ANXIOUS", "ANGRY", "NEUTRAL"]
+  },
+  {
+    "title": "نوای پیانو و فلوت دلنشین",
+    "url": "https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3",
+    "moods": ["HAPPY", "NEUTRAL"]
+  }
+]
